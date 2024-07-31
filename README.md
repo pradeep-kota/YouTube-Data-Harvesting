@@ -26,13 +26,8 @@ This is a project given by Guvi Geek networks, IIT-Madras.
 6. You can follow me on linkedIn to see the video description on how to use the app to get data
 https://www.linkedin.com/in/kota-pradeep/ 
 
-###Video explaining the project is below
-
-
-
-https://github.com/user-attachments/assets/1884517e-c19c-4145-8be4-334fc972f6bd
-
-
+### Video explaining the project is below
+Quality is not good considering github restrictions of 10MB max file (let me know if there is another way)
 
 https://github.com/user-attachments/assets/12dd2cc8-0b5f-4780-8dfd-e7c1c0f4abda
 
